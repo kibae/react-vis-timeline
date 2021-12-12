@@ -1,6 +1,6 @@
 import type { TimelineAnimationOptions, TimelineEvents } from 'vis-timeline/types';
 
-export type TimelineEventsWithMissing = TimelineEvents | 'dragover' | 'markerchange' | 'markerchanged';
+export type TimelineEventsWithMissing = TimelineEvents;
 export type TimelineEventHandler =
 	| 'currentTimeTickHandler'
 	| 'clickHandler'
