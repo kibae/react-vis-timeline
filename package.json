@@ -1,5 +1,5 @@
 {
-  "name": "react17-vis-timeline",
+  "name": "react-vis-timeline",
   "version": "2.0.3",
   "description": "React component for the vis-timeline module",
   "main": "build/index.js",
